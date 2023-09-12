@@ -26,6 +26,3 @@ git remote add origin   "https://github.com/vlmgopal2004/Career_Guid.git"
 git push -u origin main
 
 
-
-https://careerbuilder.cyclic.app/
-
